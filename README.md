@@ -84,26 +84,10 @@
 
 ---
 
-## 🚀 What I Build
-
-- **RAG Systems** — modular retriever–generator pipelines with semantic search, reranking, and multilingual support
-- **LLM Evaluation** — LLM-as-judge frameworks, prompt versioning, hallucination reduction, and automated validation pipelines
-- **Fine-tuning** — PEFT/LoRA and DPO for preference learning on domain-specific tasks
-- **Agentic AI** — multi-step agents with autonomous tool selection and anti-hallucination safeguards
-- **ML Pipelines** — production-grade feature engineering, time-series forecasting, and automated validation on AWS/Azure
-
----
-
-## 📌 Featured Projects
-
-- 🔗 [**Advanced Agentic RAG System**](https://github.com/Romulan12/Agents-Demo-) — Agentic RAG with autonomous tool selection and anti-hallucination safeguards
-- 🔗 [**LLM-as-Chatbot**](https://github.com/Romulan12/LLM-as-Chatbot) — Resource-optimized Llama 2 chatbot, Dockerized for deployment
-
-
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/misha-rana">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
