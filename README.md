@@ -1,8 +1,5 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<h1 align="center">Hi 👋, I'm Misha Rana</h1>
-<h3 align="center">ML Engineer & AI Systems Builder 🤖</h3>
-
 <p align="center">
   I build production-grade AI systems — RAG pipelines, LLM evaluation frameworks, fine-tuning workflows, and ML data pipelines.<br/>
   Focused on turning complex business problems into scalable, cloud-deployed solutions.
