@@ -9,7 +9,7 @@
 
 ---
 
-## 🔧 Tech Stack
+# 🔧 My Tech Stack
 
 <table>
   <tr>
