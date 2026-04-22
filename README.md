@@ -1,7 +1,6 @@
-<p align="left"><img width=3%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="center">
-  I build production-grade AI systems — RAG pipelines, LLM evaluation frameworks, fine-tuning workflows, and ML data pipelines.<br/>
+  Hi there! I build production-grade AI systems — RAG pipelines, LLM evaluation frameworks, fine-tuning workflows, and ML data pipelines.<br/>
   Focused on turning complex business problems into scalable, cloud-deployed solutions.
 </p>
 
