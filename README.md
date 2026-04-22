@@ -1,10 +1,10 @@
 
-<p align="center">
+<p align="left">
   Hi there! I build production-grade AI systems — RAG pipelines, LLM evaluation frameworks, fine-tuning workflows, and ML data pipelines.<br/>
   Focused on turning complex business problems into scalable, cloud-deployed solutions.
 </p>
 
-<p align="center">Currently exploring <b>Agentic AI workflows, LLM Evaluation & MLOps</b> 🚀</p>
+<p align="left">Currently exploring <b>Agentic AI workflows, LLM Evaluation & MLOps</b> 🚀</p>
 
 ---
 
@@ -37,12 +37,10 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" /><br/>FastAPI<br/>
       <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br/>Docker<br/>
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /><br/>PostgreSQL
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br/>AWS<br/>
       <img src="https://skillicons.dev/icons?i=azure" width="40" alt="Azure" /><br/>Azure<br/>
-      <img src="https://skillicons.dev/icons?i=gcp" width="40" alt="GCP" /><br/>GCP
     </td>
   </tr>
 </table>
@@ -76,7 +74,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br/>Git<br/>
       <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /><br/>Linux<br/>
-      <img src="https://skillicons.dev/icons?i=pytest" width="40" alt="Pytest" /><br/>Pytest
     </td>
   </tr>
 </table>
